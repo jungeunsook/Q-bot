@@ -24,6 +24,38 @@
   language-code="ko"
 ></df-messenger>
   
+ <style>
+  df-messenger {
+   --df-messenger-bot-message: #585858;
+   --df-messenger-button-titlebar-color: #FFFFFF6;
+   --df-messenger-button-titlebar-font-color: #0404B4;
+   --df-messenger-chat-background-color: #E6E6E6;
+   --df-messenger-font-color: #F7F2E0;
+   --df-messenger-send-icon: #F7D358;
+   --df-messenger-user-message: #F7819F;
+  }
+</style>
+    
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head> 
+  
   <body>
     <header>
       <div class="inner">
