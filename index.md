@@ -3,6 +3,7 @@
 **QA-bot**은 인공지능 AI를 공부하기 위해 선생님이 개발할 챗봇 **'물어봇'** 의 또 다른 이름이예요~
 
 **'물어봇'** 에 오신 것을 환영해요!!
+![https://github.com/jungeunsook/QA-bot/issues/1#issue-964661701](물어봇)
 
 ### Markdown
 
