@@ -17,33 +17,19 @@
 
 # 2. 물어봇 사용법은?
 
+📍 물어봇과 대화를 시작하려면, 오른쪽 아래 물어봇의 인사말을 클릭하세요.
+📍 어떤 단계에서든 처음으로 돌아가고 싶다면 '물어봇'을 클릭하거나 입력해주세요!
+📍 궁금한 것은 버튼을 선택하시거나 바로 질문을 챗에 입력하세요! 
+📍 챗을 멈추고 싶다면 '그만' 버튼을 누르거나 '그만'이라고 입력해주세요!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 3. 물어봇이 대답할 수 있는 정보
 
-```markdown
-Syntax highlighted code block
+📍 ACE 프로그램 수업 주제에 관한 내용
+📍 인공지능에 대한 모든 것
+📍 ACE 프로그램 관련 인터넷 사이트 및 자료의 사용법
 
-# Header 1
-## Header 2
-### Header 3
+# 4. 물어봇이 대답하는 정보의 출처
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![https://github.com/jungeunsook/QA-bot/issues/1#issue-964661701](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jungeunsook/QA-bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+📍 네이버 백과사전
+📍 2015 개정 5학년 국어, 사회, 도덕 교과서
+📍 물어봇과 함께 하는 AI 리터러시 신장 ACE 프로그램 보고서
