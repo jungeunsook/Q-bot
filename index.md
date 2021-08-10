@@ -1,6 +1,6 @@
 ## Welcome to QA-bot!
 
-'QA-bot'은 인공지능 AI를 공부하기 위해 선생님이 개발할 챗봇 **Bold**'물어봇'입니다.
+'QA-bot'은 인공지능 AI를 공부하기 위해 선생님이 개발할 챗봇 **' 물어봇 ' ** 입니다.
 
 선ㅅou commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
