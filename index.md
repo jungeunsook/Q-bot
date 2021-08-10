@@ -8,12 +8,14 @@
 ## 📢 자! 그럼 지금부터 '물어봇'과 함께 ACE 프로그램을 통해 인공지능에 대해서 공부해보아요!
 
 
-## 1. ACE 프로그램이란?
+# 1. ACE 프로그램이란?
+
+📍 ACE프로그램은 A(이해), C(활용), E(개발)을 의미하며, AI를 이해하고, 수업에 활용해서 AI를 개발하는 전문가가 되어 보는 수업 프로그램입니다.
 
 ![물어봇1](https://user-images.githubusercontent.com/81283008/128823031-a650e62a-5321-4a20-bc06-53715353332e.png)
 
 
-
+# 2. 물어봇 사용법은?
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
