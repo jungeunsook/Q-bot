@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to QA-bot!
 
-You can use the [editor on GitHub](https://github.com/jungeunsook/QA-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+'QA-bot'은 인공지능 AI를 공부하기 위해 선생님이 개발할 챗봇 **Bold**'물어봇'입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+선ㅅou commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
