@@ -4,9 +4,8 @@
 
 **'물어봇'** 에 오신 것을 환영해요!!
 
-![물어봇](https://github.com/jungeunsook/QA-bot/issues/1#issue-964661701)
+![물어봇1](https://user-images.githubusercontent.com/81283008/128823031-a650e62a-5321-4a20-bc06-53715353332e.png)
         
-![]()
 
 ### Markdown
 
