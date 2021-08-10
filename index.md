@@ -5,7 +5,8 @@
 **'물어봇'** 에 오신 것을 환영해요!!
 
 ![물어봇1](https://user-images.githubusercontent.com/81283008/128823031-a650e62a-5321-4a20-bc06-53715353332e.png)
-        
+
+![물어봇 2](https://user-images.githubusercontent.com/81283008/128823697-ef5ff547-c90b-485c-aa1d-299594aa37de.PNG)
 
 ### Markdown
 
